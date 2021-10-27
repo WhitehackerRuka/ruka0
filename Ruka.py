@@ -38,12 +38,7 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    ALPHA RUKA
-   ▄︻̷̿┻̿═━一
-   THE WHITE HACKERS
-   THE LEGEND SKY
-   THE DARK ALPHA
-   sri lankan hackers
-   Fuck bitch ▄︻̷̿┻̿═━一
+
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92maplha ruka
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/whitehacker/ruka
